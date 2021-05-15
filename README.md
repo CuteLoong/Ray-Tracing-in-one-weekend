@@ -341,4 +341,4 @@ vertical = focus_dist * viewport_height * v;
 
 就写到这吧，happy-end，结果图如下：
 
-![image](.\image\image.jpg)
+![image](\image\image.jpg)

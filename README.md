@@ -341,4 +341,4 @@ vertical = focus_dist * viewport_height * v;
 
 就写到这吧，happy-end，结果图如下：
 
-![image](E:\git warehouse\Ray-Tracing-in-one-weekend\image\image.jpg)
+![image](.\image\image.jpg)
